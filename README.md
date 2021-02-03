@@ -13,7 +13,7 @@ Discord bot token
 Create a Config.Json
 and fill in this information
 
-{
+`{
   "TOKEN": "",
   "YOUTUBE_API_KEY": "",
   "SOUNDCLOUD_CLIENT_ID": "",
@@ -21,7 +21,7 @@ and fill in this information
   "PREFIX": "/",
   "PRUNING": false,
   "STAY_TIME": 30
-}
+}`
 
 you will need to install
 
