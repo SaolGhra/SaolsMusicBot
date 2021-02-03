@@ -29,7 +29,8 @@ Node.js v12.0.0 or newer
 Create a Config.Json
 and fill in this information
 
-```{
+```
+{
   "TOKEN": "",
   "YOUTUBE_API_KEY": "",
   "SOUNDCLOUD_CLIENT_ID": "",
@@ -37,7 +38,8 @@ and fill in this information
   "PREFIX": "/",
   "PRUNING": false,
   "STAY_TIME": 30
-}```
+}
+```
 
 
 once this has all been completed you can start the bot with node .
