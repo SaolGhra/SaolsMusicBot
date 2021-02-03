@@ -8,21 +8,6 @@ You can have an optional Soundcloud client ID with this
 Discord bot token
 - https://discordjs.guide/preparations/setting-up-a-bot-application.html#creating-your-bot
 
-
-
-Create a Config.Json
-and fill in this information
-
-```{
-  "TOKEN": "",
-  "YOUTUBE_API_KEY": "",
-  "SOUNDCLOUD_CLIENT_ID": "",
-  "MAX_PLAYLIST_SIZE": 10,
-  "PREFIX": "/",
-  "PRUNING": false,
-  "STAY_TIME": 30
-}```
-
 you will need to install
 
 Node.js v12.0.0 or newer
@@ -39,6 +24,21 @@ Node.js v12.0.0 or newer
 `npm i discord.js`
 
 `npm i soundcloud-downloader` - optional
+
+
+Create a Config.Json
+and fill in this information
+
+```{
+  "TOKEN": "",
+  "YOUTUBE_API_KEY": "",
+  "SOUNDCLOUD_CLIENT_ID": "",
+  "MAX_PLAYLIST_SIZE": 10,
+  "PREFIX": "/",
+  "PRUNING": false,
+  "STAY_TIME": 30
+}```
+
 
 once this has all been completed you can start the bot with node .
 
