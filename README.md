@@ -3,10 +3,16 @@ A nice an easy to edit Discord.JS bot that you can use in your Discord Servers. 
 
 you will need a Youtube API Key
 - https://developers.google.com/youtube/v3/getting-started
+
+
 You can have an optional Soundcloud client ID with this
 - https://github.com/zackradisic/node-soundcloud-downloader#client-id
+
+
 Discord bot token
 - https://discordjs.guide/preparations/setting-up-a-bot-application.html#creating-your-bot
+
+
 
 you will need to install
 
