@@ -1,7 +1,7 @@
 {
   "name": "SaolsMusic",
   "description": "Discord Music Bot built with discord.js",
-  "repository": "",
+  "repository": "https://github.com/SaolGhra/SaolsMusicBot",
   "logo": "",
   "keywords": ["discord", "discordjs", "music", "bot"]
 }
